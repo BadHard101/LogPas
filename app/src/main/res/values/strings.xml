@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LogPas</string>
+    <string name="EntPas">Password</string>
+    <string name="EntLog">Login</string>
+    <string name="ButEnt">Enter</string>
+    <string name="CorrectText">Correct</string>
+    <string name="WrongText">Wrong. Try again</string>
+</resources>
